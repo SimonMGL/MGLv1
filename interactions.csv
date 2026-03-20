@@ -1,0 +1,9 @@
+item_a,item_b,severity,description
+warfarin,ibuprofen,high,increased bleeding risk
+warfarin,vitamin k,moderate,reduced effectiveness of warfarin
+sertraline,ashwagandha,moderate,possible serotonin interaction
+ibuprofen,turmeric,moderate,increased bleeding risk
+iron,magnesium,low,reduced absorption
+ginkgo biloba,warfarin,high,increased bleeding risk
+omega 3,warfarin,moderate,increased bleeding tendency
+zinc,antibiotics,moderate,reduced absorption of antibiotics
